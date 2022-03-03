@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-0 string SCHOOL School data
+0 string SCHOOL School
 !:mine School
-=======
-#!/bin/bash
-ls -amp
->>>>>>> e95bacf1b3f6273c223c8dd9284271099525af5f
